@@ -34,7 +34,7 @@
     "src/**/*.vue",
     "tests/**/*.ts",
     "tests/**/*.tsx"
-  ],
+, "src/plugins/vuetify.ts", "src/plugins/vuetify.ts"  ],
   "exclude": [
     "node_modules"
   ]
